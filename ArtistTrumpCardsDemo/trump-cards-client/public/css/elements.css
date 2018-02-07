@@ -1,0 +1,28 @@
+.selector{
+
+	max-height: 100%;
+	max-width: 100px;
+	float:left;
+}
+#deal{
+	max-width:150px;
+	max-height: 100%;
+	display: block;
+
+}
+#chartbtn{
+	min-width: 100%;
+	max-width: 100%;
+	display: block;
+
+}
+.card{
+
+	overflow: hidden;
+	padding-top: 40px;
+
+}
+#inputid{
+	width:100%;
+	margin-bottom: 10px;
+}
