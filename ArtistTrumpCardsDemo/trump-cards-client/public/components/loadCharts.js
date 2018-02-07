@@ -36,7 +36,7 @@ function showChart(position, chart){
 function loadCharts(){
   $.ajax({
     // url: "http://neetametricsapi.eu-west-1.elasticbeanstalk.com/charts",
-    url: "trump-cards-api/charts/activeListeners.json", //demo-mode URL
+    url: "../trump-cards-api/charts/activeListeners.json", //demo-mode URL
     type: 'GET',
     data: {
       format: 'json'

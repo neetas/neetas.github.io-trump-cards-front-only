@@ -38,7 +38,7 @@ $(document).ready( function() {
 
 
 function showTrumpCard(artistid){
- var url = "trump-cards-api/artist/" + artistid + ".json"; //demo mode version
+ var url = "../trump-cards-api/artist/" + artistid + ".json"; //demo mode version
 $('#activelistenersicon').empty();
 $('#demandicon').empty();
 $('#globalicon').empty();
