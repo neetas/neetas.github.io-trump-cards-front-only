@@ -1,0 +1,98 @@
+
+.values { 
+  display: block;
+  overflow: hidden;
+  max-width: 396px; 
+  background: white ;
+  color: #EEEEFF;
+  text-align: center;
+  border-color: #003CA0;
+  border-width: 5px; 
+  border-style: solid;
+  border-top-style: none;
+  border-bottom-style: solid; 
+  border-bottom-left-radius: 13px;
+  border-bottom-right-radius: 13px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+
+  }
+
+#metrics {
+  display:none;
+  background-color: #EEEEFF;
+}
+
+#characteristic {
+  float: left;
+  min-width: 160px;
+  min-height: 25px;
+  background-color: #338CB0;
+  color: #EEEEFF;
+  font: 15px arial, sans-serif;
+  text-align: right;
+  border-color: black;
+  border-style: solid;
+  border-top-style: none;
+  border-right-style: none;
+  border-width: 2px;
+  padding-top: 6px;
+  padding-right: 5px;
+
+}
+
+
+#score {
+  float: left;
+  min-height: 25px;
+  min-width: 203px;
+  text-align: left;
+  padding-left: 15px;
+  padding-top: 6px;
+  background-color: white;
+  border-width: 2px;
+  border-color: black;
+  border-style:solid;
+  border-top-style: none;
+  padding-right: 7px;
+ 
+}
+
+#characteristiclast {
+  float: left;
+  border-right-style: solid;
+  min-width: 160px;
+  min-height: 25px;
+  text-align: right;
+  color:#EEEEFF;
+  border-color: #007DA0;
+  font: 15px arial, sans-serif;
+  padding-right: 5px;
+  padding-top: 6px;
+  background-color: #338CB0;
+  border-color: black;
+  border-style: solid;
+  border-top-style: none;
+  border-right-style: none;
+  border-width: 2px;
+  border-bottom-left-radius: 8px;
+
+}
+#scorelast {
+  float: left;
+  text-align: left;
+  padding-left: 15px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  min-height: 25px;
+  min-width: 203px;
+  background-color: white;
+  border-color: black;
+  border-style:solid;
+  border-top-style: none;
+  padding-right: 7px;
+  border-width: 2px;
+  border-bottom-right-radius: 8px;
+}
+

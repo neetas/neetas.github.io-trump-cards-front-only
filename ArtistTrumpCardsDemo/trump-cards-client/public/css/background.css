@@ -1,0 +1,10 @@
+.background {
+ 
+    background: linear-gradient(
+    	#D3D3D3,
+    	#007DA0);
+}
+
+#c1 {
+    background: red;
+    }
